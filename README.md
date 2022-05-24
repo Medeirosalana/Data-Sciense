@@ -19,7 +19,7 @@ Formada em Analise e Desenvolvimento de Softwere, estudante de Cientista de dado
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Projeto Airbnb São Francisco** https://bit.ly/2L2cMwy
+* **Projeto Airbnb São Francisco** (https://bit.ly/2L2cMwy)
 ---
 
 
